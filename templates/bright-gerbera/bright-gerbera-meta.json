@@ -1,0 +1,18 @@
+{
+  "category": "anniversary",
+  "name": "bright-gerbera",
+  "price_tag": "promo",
+  "limits": [
+    {"l":"recp","w":21},
+    {"l":"wish","w":32},
+    {"l":"from","w":19},
+    {"l":"dat","w":18}
+  ],
+  "texts": {
+    "wish":" We raise our glasses 
+in celebration of your 
+     enduring love"
+  },
+  "lines": 3,
+  "tags": ["inspirational","heartfelt"]
+}

@@ -1,0 +1,262 @@
+{
+  "schema_version": "3.1",
+  "document": {
+    "template_slug": "bright-gerbera",
+    "source_psd": "bright_gerbera.psd",
+    "canvas": {
+      "width_px": 1920,
+      "height_px": 1080
+    }
+  },
+  "assets": {
+    "font_file": "FORTE.TTF",
+    "font_match": {
+      "ps_font_name": "ForteMT",
+      "match_score": 100
+    }
+  },
+  "layers": [
+    {
+      "id": "recp",
+      "role": "recipient",
+      "source_layer_name": "recp",
+      "type": "text",
+      "visible": true,
+      "text": {
+        "raw": "Dear Molly & Jordan",
+        "lines": [
+          "Dear Molly & Jordan"
+        ],
+        "line_count": 1,
+        "is_multiline": false,
+        "wrap_mode": "point_text"
+      },
+      "font": {
+        "ps_name": "ForteMT",
+        "size_px": 60,
+        "tracking_ps": 160,
+        "tracking_px": 9.6,
+        "leading_mode": "auto",
+        "leading_px": 72
+      },
+      "style": {
+        "fill_color": "#C22745",
+        "stroke_enabled": false,
+        "stroke_color": "#000000",
+        "stroke_width_px": null,
+        "stroke_extraction": {
+          "method": "textStyle_partial",
+          "final_source": "textStyle_partial",
+          "text_stroke": {
+            "enabled": false,
+            "color": "#000000",
+            "width_px": null
+          },
+          "layer_fx_stroke": {
+            "enabled": false,
+            "color": null,
+            "width_px": null
+          }
+        },
+        "opacity": 100
+      },
+      "paragraph": {
+        "align": "left"
+      },
+      "geometry": {
+        "text_box": {
+          "left": 594,
+          "top": 325,
+          "right": 1368,
+          "bottom": 380,
+          "width": 774,
+          "height": 55
+        },
+        "baseline_hint_px": 380,
+        "bounds_source": "layer_bounds"
+      }
+    },
+    {
+      "id": "wish",
+      "role": "wish",
+      "source_layer_name": "wish",
+      "type": "text",
+      "visible": true,
+      "text": {
+        "raw": "We raise our glasses \nin celebration of your \n     enduring love",
+        "lines": [
+          "We raise our glasses ",
+          "in celebration of your ",
+          "     enduring love"
+        ],
+        "line_count": 3,
+        "is_multiline": true,
+        "wrap_mode": "paragraph_text"
+      },
+      "font": {
+        "ps_name": "ForteMT",
+        "size_px": 60,
+        "tracking_ps": 200,
+        "tracking_px": 12,
+        "leading_mode": "auto",
+        "leading_px": 72
+      },
+      "style": {
+        "fill_color": "#C22745",
+        "stroke_enabled": false,
+        "stroke_color": "#000000",
+        "stroke_width_px": null,
+        "stroke_extraction": {
+          "method": "textStyle_partial",
+          "final_source": "textStyle_partial",
+          "text_stroke": {
+            "enabled": false,
+            "color": "#000000",
+            "width_px": null
+          },
+          "layer_fx_stroke": {
+            "enabled": false,
+            "color": null,
+            "width_px": null
+          }
+        },
+        "opacity": 100
+      },
+      "paragraph": {
+        "align": "left"
+      },
+      "geometry": {
+        "text_box": {
+          "left": 561,
+          "top": 438,
+          "right": 1400,
+          "bottom": 640,
+          "width": 839,
+          "height": 202
+        },
+        "baseline_hint_px": 640,
+        "bounds_source": "layer_bounds"
+      }
+    },
+    {
+      "id": "from",
+      "role": "from",
+      "source_layer_name": "from",
+      "type": "text",
+      "visible": true,
+      "text": {
+        "raw": "Janet & Larry",
+        "lines": [
+          "Janet & Larry"
+        ],
+        "line_count": 1,
+        "is_multiline": false,
+        "wrap_mode": "point_text"
+      },
+      "font": {
+        "ps_name": "ForteMT",
+        "size_px": 60,
+        "tracking_ps": 200,
+        "tracking_px": 12,
+        "leading_mode": "auto",
+        "leading_px": 72
+      },
+      "style": {
+        "fill_color": "#C22745",
+        "stroke_enabled": false,
+        "stroke_color": "#000000",
+        "stroke_width_px": null,
+        "stroke_extraction": {
+          "method": "textStyle_partial",
+          "final_source": "textStyle_partial",
+          "text_stroke": {
+            "enabled": false,
+            "color": "#000000",
+            "width_px": null
+          },
+          "layer_fx_stroke": {
+            "enabled": false,
+            "color": null,
+            "width_px": null
+          }
+        },
+        "opacity": 100
+      },
+      "paragraph": {
+        "align": "left"
+      },
+      "geometry": {
+        "text_box": {
+          "left": 703,
+          "top": 696,
+          "right": 1203,
+          "bottom": 749,
+          "width": 500,
+          "height": 53
+        },
+        "baseline_hint_px": 749,
+        "bounds_source": "layer_bounds"
+      }
+    },
+    {
+      "id": "dat",
+      "role": "date",
+      "source_layer_name": "dat",
+      "type": "text",
+      "visible": true,
+      "text": {
+        "raw": "November 10, 2024",
+        "lines": [
+          "November 10, 2024"
+        ],
+        "line_count": 1,
+        "is_multiline": false,
+        "wrap_mode": "point_text"
+      },
+      "font": {
+        "ps_name": "ForteMT",
+        "size_px": 60,
+        "tracking_ps": 200,
+        "tracking_px": 12,
+        "leading_mode": "auto",
+        "leading_px": 72
+      },
+      "style": {
+        "fill_color": "#FFFFFF",
+        "stroke_enabled": false,
+        "stroke_color": "#000000",
+        "stroke_width_px": null,
+        "stroke_extraction": {
+          "method": "textStyle_partial",
+          "final_source": "textStyle_partial",
+          "text_stroke": {
+            "enabled": false,
+            "color": "#000000",
+            "width_px": null
+          },
+          "layer_fx_stroke": {
+            "enabled": false,
+            "color": null,
+            "width_px": null
+          }
+        },
+        "opacity": 100
+      },
+      "paragraph": {
+        "align": "left"
+      },
+      "geometry": {
+        "text_box": {
+          "left": 618,
+          "top": 881,
+          "right": 1304,
+          "bottom": 931,
+          "width": 686,
+          "height": 50
+        },
+        "baseline_hint_px": 931,
+        "bounds_source": "layer_bounds"
+      }
+    }
+  ]
+}

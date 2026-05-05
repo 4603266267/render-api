@@ -1,0 +1,17 @@
+{
+  "category": "babies",
+  "name": "colorful-birthday",
+  "price_tag": "promo",
+  "limits": [
+    {"l":"recp","w":14},
+    {"l":"wish","w":24},
+    {"l":"from","w":20},
+    {"l":"dat","w":18}
+  ],
+  "texts": {
+    "wish":"   Hope your birthday is 
+full of magical moments,
+hugs and kisses!"
+  },
+  "lines": 3
+}

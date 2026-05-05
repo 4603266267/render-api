@@ -1,0 +1,262 @@
+{
+  "schema_version": "3.1",
+  "document": {
+    "template_slug": "colorful-birthday",
+    "source_psd": "colorful birthday.psd",
+    "canvas": {
+      "width_px": 1920,
+      "height_px": 1080
+    }
+  },
+  "assets": {
+    "font_file": "Lavinia.otf",
+    "font_match": {
+      "ps_font_name": "LaviniaRegular",
+      "match_score": 100
+    }
+  },
+  "layers": [
+    {
+      "id": "recp",
+      "role": "recipient",
+      "source_layer_name": "recp",
+      "type": "text",
+      "visible": true,
+      "text": {
+        "raw": "Dear Merry",
+        "lines": [
+          "Dear Merry"
+        ],
+        "line_count": 1,
+        "is_multiline": false,
+        "wrap_mode": "point_text"
+      },
+      "font": {
+        "ps_name": "LaviniaRegular",
+        "size_px": 63,
+        "tracking_ps": 140,
+        "tracking_px": 8.82,
+        "leading_mode": "auto",
+        "leading_px": 76
+      },
+      "style": {
+        "fill_color": "#7720B3",
+        "stroke_enabled": true,
+        "stroke_color": "#7989B9",
+        "stroke_width_px": 2,
+        "stroke_extraction": {
+          "method": "layerEffects.frameFX",
+          "final_source": "layerEffects.frameFX",
+          "text_stroke": {
+            "enabled": false,
+            "color": "#39090C",
+            "width_px": null
+          },
+          "layer_fx_stroke": {
+            "enabled": true,
+            "color": "#7989B9",
+            "width_px": 2
+          }
+        },
+        "opacity": 100
+      },
+      "paragraph": {
+        "align": "left"
+      },
+      "geometry": {
+        "text_box": {
+          "left": 726,
+          "top": 416,
+          "right": 1194,
+          "bottom": 478,
+          "width": 468,
+          "height": 62
+        },
+        "baseline_hint_px": 478,
+        "bounds_source": "layer_bounds"
+      }
+    },
+    {
+      "id": "wish",
+      "role": "wish",
+      "source_layer_name": "wish",
+      "type": "text",
+      "visible": true,
+      "text": {
+        "raw": "Hope your birthday is \nfull of magical moments,\nhugs and kisses!",
+        "lines": [
+          "Hope your birthday is ",
+          "full of magical moments,",
+          "hugs and kisses!"
+        ],
+        "line_count": 3,
+        "is_multiline": true,
+        "wrap_mode": "paragraph_text"
+      },
+      "font": {
+        "ps_name": "LaviniaRegular",
+        "size_px": 52,
+        "tracking_ps": 80,
+        "tracking_px": 4.16,
+        "leading_mode": "manual",
+        "leading_px": 73
+      },
+      "style": {
+        "fill_color": "#8C2C2F",
+        "stroke_enabled": true,
+        "stroke_color": "#EE649A",
+        "stroke_width_px": 2,
+        "stroke_extraction": {
+          "method": "layerEffects.frameFX",
+          "final_source": "layerEffects.frameFX",
+          "text_stroke": {
+            "enabled": false,
+            "color": "#000000",
+            "width_px": null
+          },
+          "layer_fx_stroke": {
+            "enabled": true,
+            "color": "#EE649A",
+            "width_px": 2
+          }
+        },
+        "opacity": 100
+      },
+      "paragraph": {
+        "align": "center"
+      },
+      "geometry": {
+        "text_box": {
+          "left": 522,
+          "top": 501,
+          "right": 1400,
+          "bottom": 702,
+          "width": 878,
+          "height": 201
+        },
+        "baseline_hint_px": 702,
+        "bounds_source": "layer_bounds"
+      }
+    },
+    {
+      "id": "from",
+      "role": "from",
+      "source_layer_name": "from",
+      "type": "text",
+      "visible": true,
+      "text": {
+        "raw": "Grandma & Grandpa",
+        "lines": [
+          "Grandma & Grandpa"
+        ],
+        "line_count": 1,
+        "is_multiline": false,
+        "wrap_mode": "point_text"
+      },
+      "font": {
+        "ps_name": "LaviniaRegular",
+        "size_px": 55,
+        "tracking_ps": 120,
+        "tracking_px": 6.6,
+        "leading_mode": "manual",
+        "leading_px": 80
+      },
+      "style": {
+        "fill_color": "#7720B3",
+        "stroke_enabled": true,
+        "stroke_color": "#7989B9",
+        "stroke_width_px": 2,
+        "stroke_extraction": {
+          "method": "layerEffects.frameFX",
+          "final_source": "layerEffects.frameFX",
+          "text_stroke": {
+            "enabled": false,
+            "color": "#000000",
+            "width_px": null
+          },
+          "layer_fx_stroke": {
+            "enabled": true,
+            "color": "#7989B9",
+            "width_px": 2
+          }
+        },
+        "opacity": 100
+      },
+      "paragraph": {
+        "align": "left"
+      },
+      "geometry": {
+        "text_box": {
+          "left": 618,
+          "top": 739,
+          "right": 1315,
+          "bottom": 794,
+          "width": 697,
+          "height": 55
+        },
+        "baseline_hint_px": 794,
+        "bounds_source": "layer_bounds"
+      }
+    },
+    {
+      "id": "dat",
+      "role": "date",
+      "source_layer_name": "dat",
+      "type": "text",
+      "visible": true,
+      "text": {
+        "raw": "January 30, 2025",
+        "lines": [
+          "January 30, 2025"
+        ],
+        "line_count": 1,
+        "is_multiline": false,
+        "wrap_mode": "point_text"
+      },
+      "font": {
+        "ps_name": "LaviniaRegular",
+        "size_px": 44,
+        "tracking_ps": 95,
+        "tracking_px": 4.18,
+        "leading_mode": "manual",
+        "leading_px": 80
+      },
+      "style": {
+        "fill_color": "#7720B3",
+        "stroke_enabled": true,
+        "stroke_color": "#7989B9",
+        "stroke_width_px": 2,
+        "stroke_extraction": {
+          "method": "layerEffects.frameFX",
+          "final_source": "layerEffects.frameFX",
+          "text_stroke": {
+            "enabled": false,
+            "color": "#000000",
+            "width_px": null
+          },
+          "layer_fx_stroke": {
+            "enabled": true,
+            "color": "#7989B9",
+            "width_px": 2
+          }
+        },
+        "opacity": 100
+      },
+      "paragraph": {
+        "align": "left"
+      },
+      "geometry": {
+        "text_box": {
+          "left": 676,
+          "top": 920,
+          "right": 1184,
+          "bottom": 966,
+          "width": 508,
+          "height": 46
+        },
+        "baseline_hint_px": 966,
+        "bounds_source": "layer_bounds"
+      }
+    }
+  ]
+}
