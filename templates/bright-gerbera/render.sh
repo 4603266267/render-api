@@ -4,7 +4,7 @@ set -euo pipefail
 TEXT_DIR="$1"
 OUTPUT="$2"
 
-"/mnt/c/Program Files/ImageMagick-7.1.1-Q16/magick.exe" bright-gerbera.webp \
+magick bright-gerbera.webp \
   -font "./FORTE.TTF" \
   -fill "#C22745" -pointsize 60 -kerning 8 \
   -annotate +620+370 @"$TEXT_DIR/recp.txt" \
